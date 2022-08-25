@@ -15,6 +15,7 @@
     - Randomized or personalized 4 numeral digit code
   - Microsoft Account
     - Fake account
+  - Product Activation Key
 2. Google Hosted data
   - Saved Passwords
   - History
@@ -22,5 +23,14 @@
   - Autofills
   - Credit Cards
   - Discord Tokens
-
+3. Game Info Grabber
+  - Steam
+  - Minecraft
+  - UPlay
+  - Battle.NET
+4. Social Messaging Information
+  - Discord
+  - Telegram
+  - Skype
+  - Outlook
 ###### For Educational Purposes Only - I will not be held accountable for any harm done using this program
