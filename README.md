@@ -15,5 +15,12 @@
     - Randomized or personalized 4 numeral digit code
   - Microsoft Account
     - Fake account
+2. Google Hosted data
+  - Saved Passwords
+  - History
+  - Bookmarks
+  - Autofills
+  - Credit Cards
+  - Discord Tokens
 
 ###### For Educational Purposes Only - I will not be held accountable for any harm done using this program
