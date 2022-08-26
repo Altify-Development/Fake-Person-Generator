@@ -6,6 +6,8 @@
 
 ## A WIP application that creates an entire fake person, with everything that they would really have, from accounts, to license plates, to hospital records.
 
+<img src='https://altify-developing-001.netlify.app/img/fpc.gif'>
+
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
 1. Computer settings x
