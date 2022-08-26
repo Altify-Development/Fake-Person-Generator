@@ -381,6 +381,14 @@ IfExist,info.txt
 		FileAppend,% DToken2(),Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 		FileAppend,.,Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 		FileAppend,% DToken3(),Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+		Random, ccsec1, 1000, 9999
+		Random, ccsec2, 1000, 9999
+		Random, ccsec3, 1000, 9999
+		Random, ccsec4, 1000, 9999
+		Random, ccsec5, 100, 999
+		Random, ccsec6, 1, 28
+		Random, ccsec7, 2024, 2027
+		Credit Card: %ccsec1% %ccsec2% %ccsec3% %ccsec4%`nCCV2: %ccsec5%`nExpiration Date: %ccsec6%/%ccsec7%`nCard Network: MasterCard/Access/Eurocard`n`n,
 		FileAppend,`n%1%`nCredits: Account Creator By: Altify#4476`nLanguage: AutoHotKey`nDiscLink: %DiscLink%`nYTLink: %YT%`nTwitchLink: %TwitchLink%`n,Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
 	return
