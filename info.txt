@@ -2,5 +2,3 @@ This is the file that will always be downloaded, it is to inform the user about 
 
 Discord: Altify#4476
 Discord Server: https://discord.gg/AVKEJtWkBj
-
-test
