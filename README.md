@@ -2,6 +2,8 @@
 
 ## Created By Altify#4476
 
+# the current open-source script is not working, but the compiled version in the release log is fully working.
+
 ## A WIP application that creates an entire fake person, with everything that they would really have, from accounts, to license plates, to hospital records.
 
 ### What I plan to include in my program
