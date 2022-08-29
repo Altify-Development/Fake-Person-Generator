@@ -1,0 +1,54 @@
+PID := DllCall("GetCurrentProcessId")
+Process, Priority, %PID%, Realtime
+license1(length = 1)
+	{
+		characters :="1234567890"
+		StringSplit, chars, characters
+		
+		Random,len2,1,1
+		Loop, %length%
+		{
+			Loop, %len2%
+			{
+				Random, rand, 1,10
+				password .= chars%rand%	
+			}
+		}
+		return password
+	}
+license2(length = 1)
+	{
+		characters :="ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+		StringSplit, chars, characters
+		
+		Random,len2,3,3
+		Loop, %length%
+		{
+			Loop, %len2%
+			{
+				Random, rand, 1,26
+				password .= chars%rand%	
+			}
+		}
+		return password
+	}
+license3(length = 1)
+	{
+		characters :="1234567890"
+		StringSplit, chars, characters
+		
+		Random,len2,3,3
+		Loop, %length%
+		{
+			Loop, %len2%
+			{
+				Random, rand, 1,10
+				password .= chars%rand%	
+			}
+		}
+		return password
+	}
+FileAppend,% license1(),license.txt
+FileAppend,% license2(),license.txt
+FileAppend,% license3(),license.txt
+ExitApp
