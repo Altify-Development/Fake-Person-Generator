@@ -8,6 +8,11 @@
 
 <img src='https://altify-developing-001.netlify.app/img/fpc.gif'>
 
+### Updates
+- Implementing license plates
+- Gender
+- Adding AutoPost Option to discord Webhook option
+
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
 1. Computer settings x
