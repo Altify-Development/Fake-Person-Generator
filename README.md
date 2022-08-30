@@ -12,6 +12,8 @@
 - Implementing license plates
 - Gender
 - Adding AutoPost Option to discord Webhook option
+- Auto Updates
+- Option to join discord server
 
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
