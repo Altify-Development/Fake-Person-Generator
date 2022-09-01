@@ -8,6 +8,12 @@
 
 <img src='https://altify-developing-001.netlify.app/img/fpc.gif'>
 
+### Information
+- Creates roughly 30,000 people/minute at maximum speed
+- No proxies required ( internally rotating proxies directly from my stash )
+- Creates not only a capture of the accounts, but a plain combolist style version
+  - I am currently creating a sub-capture that makes it all on just one line
+
 ### Updates
 - Implementing license plates
 - Gender
@@ -49,4 +55,11 @@ Items with a "x" next to them have been completed
   - Life Insurance
   - Health Coverage
   - Dental
+6. Improvments
+  - Adding a GUI save option soon
+  - Creating a gui background
+  - Adding more capture data
+  - Adding auto drop discord bot ( enter your bot token<sub>1<sub> )
 ###### For Educational Purposes Only - I will not be held accountable for any harm done using this program
+#### References
+1. Making a video guide on how to create a bot and get the token to set up the dropper
