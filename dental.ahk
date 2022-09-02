@@ -161,6 +161,7 @@ Rx3(length = 5)
 Random,eff1,1,12
 Random,eff2,1,28
 Random,eff3,21,23
+Random, dentplan,1,100
 ; Delta
 if dentplan between 1 and 59
 {
