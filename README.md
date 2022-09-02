@@ -13,6 +13,7 @@
 - No proxies required ( internally rotating proxies directly from my stash )
 - Creates not only a capture of the accounts, but a plain combolist style version x
   - I am currently creating a sub-capture that makes it all on just one line x
+- Current Size: ~approx 37.82 KB
 
 ### Updates
 - Implementing license plates x
