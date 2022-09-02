@@ -55,10 +55,10 @@ Items with a "x" next to them have been completed
   - Telegram
   - Skype
   - Outlook x
-5. Personal Data
+5. Personal Data X
   - Life Insurance x
   - Health Coverage x
-  - Dental
+  - Dental x
 6. Improvments
   - Adding a GUI save option soon
   - Creating a gui background
@@ -67,3 +67,6 @@ Items with a "x" next to them have been completed
 ###### For Educational Purposes Only - I will not be held accountable for any harm done using this program
 #### References
 1. Making a video guide on how to create a bot and get the token to set up the dropper
+  - Must Have node.js installed
+    - [Install](https://nodejs.org/en/)
+    - Must have discord bot token ( discord developer applications )
