@@ -21,6 +21,8 @@
 - Auto Updates
 - Option to join discord server
 - Added coinvoucher.io cracker
+- Created Kaiser Information
+- Added Life Insurance Checker
 
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
