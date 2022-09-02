@@ -23,6 +23,7 @@
 - Added coinvoucher.io cracker x
 - Created Kaiser Information x
 - Added Life Insurance Checker x
+- Added Dental Insurance Checker x
 
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
