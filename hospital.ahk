@@ -198,7 +198,7 @@ Random,gn, 10000, 99999
 Random,gn2, 10, 99
 Random,eff1,1,12
 Random,eff2,1,28
-Random,eff3,1,23
+Random,eff3,20,23
 Random,s1,1,9
 Random,s2,1,9
 Random,s3,1,9
