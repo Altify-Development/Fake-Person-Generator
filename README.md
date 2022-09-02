@@ -11,18 +11,18 @@
 ### Information
 - Creates roughly 30,000 people/minute at maximum speed
 - No proxies required ( internally rotating proxies directly from my stash )
-- Creates not only a capture of the accounts, but a plain combolist style version
-  - I am currently creating a sub-capture that makes it all on just one line
+- Creates not only a capture of the accounts, but a plain combolist style version x
+  - I am currently creating a sub-capture that makes it all on just one line x
 
 ### Updates
-- Implementing license plates
-- Gender
+- Implementing license plates x
+- Gender x
 - Adding AutoPost Option to discord Webhook option
-- Auto Updates
+- Auto Updates x
 - Option to join discord server
-- Added coinvoucher.io cracker
-- Created Kaiser Information
-- Added Life Insurance Checker
+- Added coinvoucher.io cracker x
+- Created Kaiser Information x
+- Added Life Insurance Checker x
 
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
