@@ -232,3 +232,25 @@ FileAppend,% Rx1(),Results\Capture\Account Targeted Account Generator By Altify#
 FileAppend,`nRx PCN Number:,Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,% Rx2(),Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,`nEFF Date: %eff1%/%eff2%/%eff3%`nSelect Providers:`n Primary/Secondairy - %s1%0`%/%s2%0`%`nUrgent/ER - %s3%`%/250`nDeductable - %s4%000`nCoinsurance - %s5%0`%`nGeneric Rx Brand: 20/40`nPPO Providers:`nPrimary/Secondairy - %s6%0`%/%s7%0`%`nUrgent/ER - %s8%`%/250`nDeductable - %s9%000`nCoinsurance - %s10%0`%`nGeneric Rx Brand: 40/60`nNon-Participating Providers:`nDeductable: %s11%000`nCoinsurance - %s12%0`%`nGeneric Rx Brand: 20/40s,Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+if haslife between 2 and 9
+{
+life := "false"
+}
+if haslife 1
+{
+haslife **= 6
+FileAppend,Has Life Insurance: $%haslife% Granted to loved ones upon death%A_Space%|%A_Space%,Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+}
+FileAppend,Kaiser Benefits:%A_Space%|%A_Space%%k1%%A_Space%|%A_Space%%k2%%A_Space%|%A_Space%%k3%%A_Space%|%A_Space%%k4%%A_Space%|%A_Space%%k5%%A_Space%|%A_Space%%k6%%A_Space%|%A_Space%%k7%%A_Space%|%A_Space%%k8%%A_Space%|%A_Space%%k9%%A_Space%|%A_Space%%k10%%A_Space%|%A_Space%%k11%%A_Space%|%A_Space%%k12%%A_Space%|%A_Space%%k13%%A_Space%|%A_Space%%k14%,Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,Kaiser ID:%A_Space%|%A_Space%Member Name: %FirstName% %LastName%%A_Space%|%A_Space%Health Record Number:,Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,% hrn(),Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,%A_Space%|%A_Space%Group Number: %gn%-,Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,% gnl(),Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,%gn2%,Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,%A_Space%|%A_Space%Rx BIN Number:%A_Space%,Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,% Rx1(),Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,%A_Space%|%A_Space%Rx PCN Number:,Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,% Rx2(),Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,%A_Space%|%A_Space%EFF Date: %eff1%/%eff2%/%eff3%%A_Space%|%A_Space%Select Providers:%A_Space%|%A_Space% Primary/Secondairy - %s1%0`%/%s2%0`%%A_Space%|%A_Space%Urgent/ER - %s3%`%/250%A_Space%|%A_Space%Deductable - %s4%000%A_Space%|%A_Space%Coinsurance - %s5%0`%%A_Space%|%A_Space%Generic Rx Brand: 20/40%A_Space%|%A_Space%PPO Providers:%A_Space%|%A_Space%Primary/Secondairy - %s6%0`%/%s7%0`%%A_Space%|%A_Space%Urgent/ER - %s8%`%/250%A_Space%|%A_Space%Deductable - %s9%000%A_Space%|%A_Space%Coinsurance - %s10%0`%%A_Space%|%A_Space%Generic Rx Brand: 40/60%A_Space%|%A_Space%Non-Participating Providers:%A_Space%|%A_Space%Deductable: %s11%000%A_Space%|%A_Space%Coinsurance - %s12%0`%%A_Space%|%A_Space%Generic Rx Brand: 20/40s,Results\CaptureOL\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+
+
