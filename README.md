@@ -18,11 +18,11 @@
 - Installation
   - Creates Folders and files
     - /Results
-      - /Capture // Capture is just a inflated version of Generated with a advert in it, and account information
+      - /Capture == Capture is just a inflated version of Generated with a advert in it, and account information
         - Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt
-      - /CaptureOL // CaptureOL is One-Lined Capture for uploading to sites, or adding to a account gen, etc.
+      - /CaptureOL == CaptureOL is One-Lined Capture for uploading to sites, or adding to a account gen, etc.
         - Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt
-      - /Generated // Plain Accounts
+      - /Generated == Plain Accounts
         - Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt
     - /settings
       - /temp
