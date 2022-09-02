@@ -15,6 +15,20 @@
   - I am currently creating a sub-capture that makes it all on just one line x
 - Current Size: ~approx 38.83 KB - Only Including .ahk Files uncompiled
 - Compiled Size: ~approx 12.2 MB - Including All Settings Files
+- Installation
+  - Creates Folders and files
+    - /Results
+      - /Capture // Capture is just a inflated version of Generated with a advert in it, and account information
+        - Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt
+      - /CaptureOL // CaptureOL is One-Lined Capture for uploading to sites, or adding to a account gen, etc.
+        - Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt
+      - /Generated // Plain Accounts
+        - Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt
+    - /settings
+      - /temp
+        - update.bat
+        - update.exe
+          * checks github for updates and sends a http code to my discord webhook to verify that you are not blacklisted
 
 ### Updates
 - Implementing license plates x
