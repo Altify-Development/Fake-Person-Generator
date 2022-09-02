@@ -14,6 +14,7 @@
 - Creates not only a capture of the accounts, but a plain combolist style version x
   - I am currently creating a sub-capture that makes it all on just one line x
 - Current Size: ~approx 38.83 KB - Only Including .ahk Files uncompiled
+- Compiled Size: ~approx 12.2 MB - Including All Settings Files
 
 ### Updates
 - Implementing license plates x
