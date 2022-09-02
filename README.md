@@ -20,6 +20,7 @@
 - Adding AutoPost Option to discord Webhook option
 - Auto Updates
 - Option to join discord server
+- Added coinvoucher.io cracker
 
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
