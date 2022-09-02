@@ -37,8 +37,8 @@ Items with a "x" next to them have been completed
   - Microsoft Account x
     - Fake account x
   - Product Activation Key x
-2. Google Hosted data
-  - Saved Passwords
+2. Google Hosted data x
+  - Saved Passwords x
   - History
   - Bookmarks
   - Autofills
@@ -55,13 +55,13 @@ Items with a "x" next to them have been completed
   - Skype
   - Outlook x
 5. Personal Data
-  - Life Insurance
-  - Health Coverage
+  - Life Insurance x
+  - Health Coverage x
   - Dental
 6. Improvments
   - Adding a GUI save option soon
   - Creating a gui background
-  - Adding more capture data
+  - Adding more capture data x
   - Adding auto drop discord bot ( enter your bot token<sub>1<sub> )
 ###### For Educational Purposes Only - I will not be held accountable for any harm done using this program
 #### References
