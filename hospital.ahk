@@ -203,6 +203,24 @@ Random,s1,1,9
 Random,s2,1,9
 Random,s3,1,9
 Random,s4,1,9
+Random,s5,1,9
+Random,s6,1,9
+Random,s7,1,9
+Random,s8,1,9
+Random,s9,1,9
+Random,s10,1,9
+Random,s11,1,9
+Random,s12,1,9
+Random,haslife,1,9
+if haslife between 2 and 9
+{
+life := "false"
+}
+if haslife 1
+{
+haslife **= 6
+FileAppend,Has Life Insurance: $%haslife% Granted to loved ones upon death`n
+}
 FileAppend,Kaiser Benefits:`n%k1%`n%k2%`n%k3%`n%k4%`n%k5%`n%k6%`n%k7%`n%k8%`n%k9%`n%k10%`n%k11%`n%k12%`n%k13%`n%k14%,Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,Kaiser ID:`nMember Name: %FirstName% %LastName%`nHealth Record Number:,Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,% hrn(),Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
@@ -213,4 +231,4 @@ FileAppend,`nRx BIN Number:%A_Space%,Results\Capture\Account Targeted Account Ge
 FileAppend,% Rx1(),Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,`nRx PCN Number:,Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,% Rx2(),Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-FileAppend,`nEFF Date: %eff1%/%eff2%/%eff3%`nSelect Providers:`n Primary/Secondairy - %s1%0`%/%s2%0`%`nUrgent/ER - %s3%`%/250`nDeductable - %s4%000`nCoinsurance - %s5%0`%`nGeneric Rx Brand: 20/40`nPPO Providers:`nPrimary/Secondairy - %s6%0`%/%s7%0`%`nUrgent/ER - %s8%`%/250`nDeductable - %s9%000`nCoinsurance - %s10%0`%`nGeneric Rx Brand: 40/60`nNon-Participating Providers:`nDeductable: %s10%000`nCoinsurance - %s10%0`%`nGeneric Rx Brand: 20/40s,Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,`nEFF Date: %eff1%/%eff2%/%eff3%`nSelect Providers:`n Primary/Secondairy - %s1%0`%/%s2%0`%`nUrgent/ER - %s3%`%/250`nDeductable - %s4%000`nCoinsurance - %s5%0`%`nGeneric Rx Brand: 20/40`nPPO Providers:`nPrimary/Secondairy - %s6%0`%/%s7%0`%`nUrgent/ER - %s8%`%/250`nDeductable - %s9%000`nCoinsurance - %s10%0`%`nGeneric Rx Brand: 40/60`nNon-Participating Providers:`nDeductable: %s11%000`nCoinsurance - %s12%0`%`nGeneric Rx Brand: 20/40s,Results\Capture\Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
