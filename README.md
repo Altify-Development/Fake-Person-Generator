@@ -30,6 +30,12 @@
         - update.exe
           * checks github for updates and sends a http code to my discord webhook to verify that you are not blacklisted
 
+### Warning
+1. Size
+- Each account takes up ~approx 1kb of data, as in 1,000 bytes/characters still ~approx
+- Must be run as administrator so it can elevate its runtime process, and so it can make the memory reading faster so it doesn't use too much cpu
+
+
 ### Updates
 - Implementing license plates x
 - Gender x
