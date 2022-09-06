@@ -1,3 +1,6 @@
+FileCreateDir,Results
+FileCreateDir,Results\Capture
+FileCreateDir,Results\CaptureOL
 Random,XGPhas,1,100
 if XGPhas between 1 and 60
 {
