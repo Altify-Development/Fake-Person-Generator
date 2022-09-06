@@ -46,6 +46,7 @@
 - Created Kaiser Information x
 - Added Life Insurance Checker x
 - Added Dental Insurance Checker x
+- Added Passport Full Details
 
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
