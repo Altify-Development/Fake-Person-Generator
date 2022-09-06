@@ -38,7 +38,7 @@ if XGPhas between 61 and 100
 	{
 		Random,XGPgamenumber,1,291
 		FileReadLine,XGPgametitle,XGP.games.list,%XGPgamenumber%
-		FileAppend,%XGPgametitle%`,%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+		FileAppend,%XGPgametitle% `, %A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
 	; Capture
 	FileAppend,`nXbox Game Pass Grabber:%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
@@ -54,7 +54,6 @@ if XGPhas between 61 and 100
 		FileReadLine,XGPgametitle,XGP.games.list,%XGPgamenumber%
 		FileAppend,%XGPgametitle%`,%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
-return
 }
 Random,battlenethas,1,100
 if battlenethas between 1 and 60
@@ -93,7 +92,6 @@ if battlenethas between 61 and 100
 		FileReadLine,battlenetgametitle,battlenet.games.list,%battlenetgamenumber%
 		FileAppend,%battlenetgametitle%`,%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
-return
 }
 Random,epichas,1,100
 if epichas between 1 and 60
@@ -132,7 +130,6 @@ if epichas between 61 and 100
 		FileReadLine,epicgametitle,epic.games.list,%epicgamenumber%
 		FileAppend,%epicgametitle%`,%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
-return
 }
 Random,steamhas,1,100
 if steamhas between 1 and 60
@@ -171,7 +168,6 @@ if steamhas between 61 and 100
 		FileReadLine,gametitle,steam.games.list,%gamenumber%
 		FileAppend,%gametitle%`,%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
-return
 }
 Random,uplayhas,1,100
 if uplayhas between 1 and 60
@@ -210,7 +206,6 @@ if uplayhas between 61 and 100
 		FileReadLine,uplaygametitle,uplay.games.list,%uplaygamenumber%
 		FileAppend,%uplaygametitle%`,%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
-return
 }
 Random,creditposs,1,10
 if creditposs = 1
