@@ -30,10 +30,10 @@ if battlenethas between 61 and 100
 	FileAppend,% GenerateRandomString(),Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,%A_Space%|%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,%A_Space%| Games:%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-	Random, battlenetgamecount,1,5
+	Random, battlenetgamecount,1,8
 	Loop, %battlenetgamecount%
 	{
-		Random,battlenetgamenumber,1,21
+		Random,battlenetgamenumber,1,28
 		FileReadLine,battlenetgametitle,battlenet.games.list,%battlenetgamenumber%
 		FileAppend,%battlenetgametitle%`,%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
@@ -44,10 +44,10 @@ if battlenethas between 61 and 100
 	FileAppend,% GenerateRandomString(),Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,`n,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,`n Games:%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-	Random, battlenetgamecount,1,5
+	Random, battlenetgamecount,1,8
 	Loop, %battlenetgamecount%
 	{
-		Random,battlenetgamenumber,1,21
+		Random,battlenetgamenumber,1,28
 		FileReadLine,battlenetgametitle,battlenet.games.list,%battlenetgamenumber%
 		FileAppend,%battlenetgametitle%`,%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
