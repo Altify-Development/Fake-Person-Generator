@@ -30,10 +30,10 @@ if epichas between 61 and 100
 	FileAppend,% GenerateRandomString(),Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,%A_Space%|%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,%A_Space%| Games:%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-	Random, gamecount,1,50
+	Random, gamecount,1,5
 	Loop, %gamecount%
 	{
-		Random,gamenumber,1,177
+		Random,gamenumber,1,21
 		FileReadLine,gametitle,epic.games.list,%gamenumber%
 		FileAppend,%gametitle%`,%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
@@ -44,10 +44,10 @@ if epichas between 61 and 100
 	FileAppend,% GenerateRandomString(),Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,`n,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,`n Games:%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-	Random, gamecount,1,50
+	Random, gamecount,1,5
 	Loop, %gamecount%
 	{
-		Random,gamenumber,1,177
+		Random,gamenumber,1,21
 		FileReadLine,gametitle,epic.games.list,%gamenumber%
 		FileAppend,%gametitle%`,%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
