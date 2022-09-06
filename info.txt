@@ -1,5 +1,7 @@
 // This is the file that will always be downloaded, it is to inform the user about my current discord server, account, etc \\
 
+|| Created By Altify#0001, Support Server: discord.gg/alts ||
+
 Fake-Person-Generator By Altify Developing
 
 description:
