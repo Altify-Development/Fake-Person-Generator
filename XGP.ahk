@@ -30,10 +30,10 @@ if XGPhas between 61 and 100
 	FileAppend,% GenerateRandomString(),Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,%A_Space%|%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,%A_Space%| Games:%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-	Random, XGPgamecount,1,5
+	Random, XGPgamecount,1,25
 	Loop, %XGPgamecount%
 	{
-		Random,XGPgamenumber,1,21
+		Random,XGPgamenumber,1,291
 		FileReadLine,XGPgametitle,XGP.games.list,%XGPgamenumber%
 		FileAppend,%XGPgametitle%`,%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
@@ -44,10 +44,10 @@ if XGPhas between 61 and 100
 	FileAppend,% GenerateRandomString(),Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,`n,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,`n Games:%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-	Random, XGPgamecount,1,5
+	Random, XGPgamecount,1,25
 	Loop, %XGPgamecount%
 	{
-		Random,XGPgamenumber,1,21
+		Random,XGPgamenumber,1,291
 		FileReadLine,XGPgametitle,XGP.games.list,%XGPgamenumber%
 		FileAppend,%XGPgametitle%`,%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
