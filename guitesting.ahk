@@ -9,3 +9,6 @@ ButtonCancel:
 ExitApp
 ButtonInstall:
 Gui, Submit
+
+; add memory option for #MaxMem %memory%
+; add multithread option for #MaxThreads %threads%
