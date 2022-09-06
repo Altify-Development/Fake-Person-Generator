@@ -34,7 +34,7 @@ if steamhas between 61 and 100
 	Loop, %gamecount%
 	{
 		Random,gamenumber,1,177
-		FileReadLine,gametitle,games.list,%gamenumber%
+		FileReadLine,gametitle,steam.games.list,%gamenumber%
 		FileAppend,%gametitle%`,%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
 	; Capture
@@ -48,7 +48,7 @@ if steamhas between 61 and 100
 	Loop, %gamecount%
 	{
 		Random,gamenumber,1,177
-		FileReadLine,gametitle,games.list,%gamenumber%
+		FileReadLine,gametitle,steam.games.list,%gamenumber%
 		FileAppend,%gametitle%`,%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
 
