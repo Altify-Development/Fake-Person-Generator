@@ -42,9 +42,9 @@ if XGPhas between 61 and 100
 	}
 	; Capture
 	FileAppend,`nXbox Game Pass Grabber:%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-	FileAppend,% GenerateRandomString1(),Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+	FileAppend,% GenerateRandomString(),Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,%FirstName%%Mail%:%LastName%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-	FileAppend,% GenerateRandomString1(),Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+	FileAppend,% GenerateRandomString(),Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,`n,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,`n Games:%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	Random, XGPgamecount,1,25
