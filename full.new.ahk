@@ -18,13 +18,13 @@ GenerateRandomString(length = 1)
 		return password
 	}
 Random,XGPhas,1,100
-if XGPhas between 1 and 60
+if XGPhas between 1 and 40
 {
 ; None
 FileAppend,`nXbox Game Pass Grabber: N/A,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,%A_Space%|%A_Space%Xbox Game Pass Grabber: N/A,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 }
-if XGPhas between 61 and 100
+if XGPhas between 41 and 100
 {
 	; CaptureOL
 	FileAppend,%A_Space%|%A_Space%Xbox Game Pass Grabber:%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
@@ -56,13 +56,13 @@ if XGPhas between 61 and 100
 	}
 }
 Random,battlenethas,1,100
-if battlenethas between 1 and 60
+if battlenethas between 1 and 40
 {
 ; None
 FileAppend,`nBattle.NET Grabber: N/A,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,%A_Space%|%A_Space%Battle.NET Grabber: N/A,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 }
-if battlenethas between 61 and 100
+if battlenethas between 41 and 100
 {
 	; CaptureOL
 	FileAppend,%A_Space%|%A_Space%Battle.NET Grabber:%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
@@ -94,13 +94,13 @@ if battlenethas between 61 and 100
 	}
 }
 Random,epichas,1,100
-if epichas between 1 and 60
+if epichas between 1 and 40
 {
 ; None
 FileAppend,`nEpic Games Grabber: N/A,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,%A_Space%|%A_Space%Epic Games Grabber: N/A,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 }
-if epichas between 61 and 100
+if epichas between 41 and 100
 {
 	; CaptureOL
 	FileAppend,%A_Space%|%A_Space%Epic Games Grabber:%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
@@ -132,13 +132,13 @@ if epichas between 61 and 100
 	}
 }
 Random,steamhas,1,100
-if steamhas between 1 and 60
+if steamhas between 1 and 40
 {
 ; None
 FileAppend,`nSteam Grabber: N/A,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,%A_Space%|%A_Space%Steam Grabber: N/A,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 }
-if steamhas between 61 and 100
+if steamhas between 41 and 100
 {
 	; CaptureOL
 	FileAppend,%A_Space%|%A_Space%Steam Grabber:%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
@@ -170,13 +170,13 @@ if steamhas between 61 and 100
 	}
 }
 Random,uplayhas,1,100
-if uplayhas between 1 and 60
+if uplayhas between 1 and 40
 {
 ; None
 FileAppend,`nUPlay Grabber: N/A,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,%A_Space%|%A_Space%UPlay Grabber: N/A,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 }
-if uplayhas between 61 and 100
+if uplayhas between 41 and 100
 {
 	; CaptureOL
 	FileAppend,%A_Space%|%A_Space%UPlay Grabber:%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
@@ -338,3 +338,5 @@ FileAppend,% vvf3(),Results/CaptureOL/Account Targeted Account Generator By Alti
 FileAppend,%sv3t%-%sv4o%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,% vvf4(),Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 FileAppend,%sv4t%%A_Space%|%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+MsgBox,48,Done!
+ExitApp
