@@ -38,7 +38,7 @@ if XGPhas between 41 and 100
 	{
 		Random,XGPgamenumber,1,291
 		FileReadLine,XGPgametitle,XGP.games.list,%XGPgamenumber%
-		FileAppend,%XGPgametitle% `, %A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+		FileAppend,%XGPgametitle%`, %A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	}
 	; Capture
 	FileAppend,`nXbox Game Pass Grabber:%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
@@ -46,7 +46,7 @@ if XGPhas between 41 and 100
 	FileAppend,%FirstName%%Mail%:%LastName%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,% GenerateRandomString(),Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	FileAppend,`n,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-	FileAppend,`n Games:%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+	FileAppend,`nGames:%A_Space%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 	Random, XGPgamecount,1,25
 	Loop, %XGPgamecount%
 	{
@@ -248,8 +248,8 @@ if creditposs = 10
 {
 Random,creditscore,825,850
 }
-FileAppend,`nCredit Score: %creditscore%,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
-FileAppend,%A_Space%|%A_Space%Credit Score: %creditscore%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,`nCredit Score: %creditscore%`n,Results/Capture/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
+FileAppend,%A_Space%|%A_Space%Credit Score: %creditscore%%A_Space%|%A_Space%,Results/CaptureOL/Account Targeted Account Generator By Altify#4476 - Thanks For Boosting.txt,
 Random,dob1,1,12
 Random,dob2,1,28
 Random,dob3,1960,2004
