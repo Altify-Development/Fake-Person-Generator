@@ -47,7 +47,11 @@
 - Added Life Insurance Checker x
 - Added Dental Insurance Checker x
 - Added Passport Full Details x
-- Credit score
+- Credit score x
+- Added Steam Grabber x
+- Added UPlay Grabber x
+- Added Epic Games Grabber x
+- Added BattleNet Grabber x
 
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
