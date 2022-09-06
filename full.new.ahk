@@ -1,6 +1,8 @@
 FileCreateDir,Results
 FileCreateDir,Results\Capture
 FileCreateDir,Results\CaptureOL
+for objItem in ComObjGet("winmgmts:").ExecQuery("SELECT * FROM Win32_NetworkAdapterConfiguration WHERE IPEnabled = True")
+    MsgBox, % "IPAddress:`t`t" objItem.IPAddress[0] "`nMACAddress:`t" objItem.MACAddress "`n"
 GenerateRandomString(length = 1)
 	{
 		characters :="abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12345678901234567890abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12345678901234567890abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ12345678901234567890-=_+!@#$"
