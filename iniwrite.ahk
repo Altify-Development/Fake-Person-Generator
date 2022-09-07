@@ -1,4 +1,3 @@
-FileAppend,,\settings\Defaults.ini
-IniWrite, %A_UserName%, \settings\Defaults.ini, Name, value
-IniRead, user, \settings\Defaults.ini, Name, value
+IniWrite, %A_UserName%,settings\Defaults.ini, Section1, Key
+IniRead, user,settings\Defaults.ini, Section1, Key
 MsgBox,48,%user%
