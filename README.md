@@ -37,21 +37,9 @@
 
 
 ### Updates
-- Implementing license plates x
-- Gender x
+- Adding Defaulting and Defaults setup soon
 - Adding AutoPost Option to discord Webhook option
-- Auto Updates x
 - Option to join discord server
-- Added coinvoucher.io cracker x
-- Created Kaiser Information x
-- Added Life Insurance Checker x
-- Added Dental Insurance Checker x
-- Added Passport Full Details x
-- Credit score x
-- Added Steam Grabber x
-- Added UPlay Grabber x
-- Added Epic Games Grabber x
-- Added BattleNet Grabber x
 
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
