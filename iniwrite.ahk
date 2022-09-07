@@ -35,10 +35,10 @@ Gui, Add, Edit, v2, Enter Text Here
 Gui, Add, Edit, v3, Enter Text Here
 Gui, Add, Edit, v4, Enter Text Here
 Gui, Add, Edit, v5, Enter Text Here
-Gui, Add, Button, default, OK
+Gui, Add, Button, default, Submit
 Gui, Show,, GUI Setup
 return
-ButtonOK:
+ButtonSubmit:
 Gui, Submit
 IniWrite, %A_UserName%,settings\Defaults.ini, Section1, Key
 IniWrite, %1%,settings\Defaults.ini, Section2, Key
