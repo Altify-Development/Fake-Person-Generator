@@ -1,7 +1,20 @@
 // This is the file that will always be downloaded, it is to inform the user about my current discord server, account, etc \\
-╔═════════════════════════════════════════════════════════╗
-║ Created By Altify#0001, Support Server: discord.gg/alts ║
-╚═════════════════════════════════════════════════════════╝
+
+╔════════════════════════════════════════════════════════════════╗
+║     Created By Altify#0001, Support Server: discord.gg/alts    ║
+║ Developed in AutoHotKey ( .ahk ) May be read as PE for ahk2exe ║
+║ Ahk2Exe Converter commonly is detected because it compiles src ║
+╠════════════════════════════════════════════════════════════════╣
+║                      What is AutoHotKey?                       ║
+║ Autohotkey is a coding language that is used for carrying out  ║
+║ simple versions of what could be made in a very confusing      ║
+║ method using python, javascript, node, etc. And it is often    ║
+║ mistaken for a language which's sole purpose is to make an     ║
+║ autoclicker or type a message in a chat box and send it        ║
+║ it is really a simplified way to carry out the top 3 coding    ║
+║ language's actions in one MUCH smaller script.                 ║
+╚════════════════════════════════════════════════════════════════╝
+
 Fake-Person-Generator By Altify Developing
 
 description:
@@ -35,21 +48,9 @@ Warnings:
 - Must be run as administrator so it can elevate its runtime process, and so it can make the memory reading faster so it doesn't use too much cpu
 
 Updates
-- Implementing license plates x
-- Gender x
 - Adding AutoPost Option to discord Webhook option
-- Auto Updates x
 - Option to join discord server
-- Added coinvoucher.io cracker x
-- Created Kaiser Information x
-- Added Life Insurance Checker x
-- Added Dental Insurance Checker x
-- Added Passport Full Details x
-- Credit score x
-- Added Steam Grabber x
-- Added UPlay Grabber x
-- Added Epic Games Grabber x
-- Added BattleNet Grabber x
+- Adding Defaults soon
 
 What I plan to include in my program
 Items with a "x" next to them have been completed
