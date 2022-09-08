@@ -13,8 +13,8 @@
 - No proxies required ( internally rotating proxies directly from my stash )
 - Creates not only a capture of the accounts, but a plain combolist style version x
   - I am currently creating a sub-capture that makes it all on just one line x
-- Current Size: ~approx 38.83 KB - Only Including .ahk Files uncompiled
-- Compiled Size: ~approx 12.2 MB - Including All Settings Files
+- Current Size: ~approx 72.91 KB - Only Including .ahk Files uncompiled
+- Compiled Size: ~approx 19.42 MB - Including All Settings Files
 - Installation
   - Creates Folders and files
     - /Results
@@ -32,12 +32,12 @@
 
 ### Warning
 1. Size
-- Each account takes up ~approx 1kb of data, as in 1,000 bytes/characters still ~approx
+- Each account takes up ~approx 4kb of data, as in 4,000 bytes/characters still ~approx
 - Must be run as administrator so it can elevate its runtime process, and so it can make the memory reading faster so it doesn't use too much cpu
 
 
 ### Updates
-- Adding Defaulting and Defaults setup soon
+- Added Defaulting and Defaults setup
 - Adding AutoPost Option to discord Webhook option
 - Option to join discord server
 
