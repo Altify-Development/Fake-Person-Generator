@@ -1,6 +1,6 @@
 # Fake-Person-Generator
 
-## Created By Altify#4476
+## Created By Altify#0001
 
 # the current open-source script is not working, but the compiled version in the release log is fully working.
 
