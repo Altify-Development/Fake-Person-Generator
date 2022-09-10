@@ -2,6 +2,7 @@
 || DONT DELETE THIS FILE OR PROGRAM WILL NOT OPERATE ||
 ╔════════════════════════════════════════════════════════════════╗
 ║     Created By Altify#0949, I WAS HACKED!!! Not Altify#0001!   ║
+║         Discord server: https://joindiscord.netlify.app/       ║
 ║ Developed in AutoHotKey ( .ahk ) May be read as PE for ahk2exe ║
 ║ Ahk2Exe Converter commonly is detected because it compiles src ║
 ╠════════════════════════════════════════════════════════════════╣
