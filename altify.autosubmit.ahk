@@ -13,7 +13,7 @@ PageInstance := ChromeInst.GetPage()
 PageInstance.Call("Page.navigate", {"url": "https://altify-developing-001.netlify.app/"})
 PageInstance.WaitForLoad()
 ; Execute some JavaScript
-PageInstance.Evaluate("document.getElementById('contact').submit();")
+PageInstance.Evaluate("function replace()")
 
 ; Close the browser (note: this closes *all* pages/tabs)
 PageInstance.Call("Browser.close")
