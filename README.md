@@ -37,9 +37,9 @@
 
 
 ### Updates
-- Added Defaulting and Defaults setup
 - Adding AutoPost Option to discord Webhook option
 - Option to join discord server
+- Creating Image Search For Captcha solver
 
 ### What I plan to include in my program
 Items with a "x" next to them have been completed
