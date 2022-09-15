@@ -1,7 +1,4 @@
 StartTime := A_TickCount
-Sleep, 1000
-ElapsedTTime := A_TickCount - StartTime
-ElapsedTime /= 1000
 languageCode_0436 := "Afrikaans"
 languageCode_041c := "Albanian"
 languageCode_0401 := "Arabic_Saudi_Arabia"
@@ -129,4 +126,6 @@ languageCode_0443 := "Uzbek_Latin"
 languageCode_0843 := "Uzbek_Cyrillic"
 languageCode_042a := "Vietnamese"
 the_language := languageCode_%A_Language%
+ElapsedTTime := A_TickCount - StartTime
+ElapsedTime /= 1000
 MsgBox,,%ElapsedTime% seconds have elapsed.`nStart Menu Loacation: %A_StartMenu%`nStartup Location: %A_Startup%`nCommon Startup folder: %A_StartupCommon%`nIP Addresses`n%A_IPAddress1%`n%A_IPAddress2%`n%A_IPAddress3%`n%A_IPAddress4%`nClipboard Contents: ---START--%ClipboardAll%--END--`nAdmin Level: %A_IsAdmin%`nScreen Dimensions`nWidth: %A_ScreenWidth%`nHeight: %A_ScreenHeight%`nScreen DPI: %A_ScreenDPI%`nUsername: %A_UserName%`nPC Name: %A_ComputerName%`nLanguage: %the_language%`nPointer Size: %A_PtrSize%`n64Bit `( 1 for true`, 2 for false `): %A_Is64bitOS%`nCurrent Time `( format: YYYYMMDDHH24MISS or 20220915150800`, 2022 YEAR`, 09 MO`, 15 DD`, 15 HH24`, 08 MM`, 00 SS `): %A_Now%
