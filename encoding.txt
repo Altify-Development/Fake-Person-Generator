@@ -37,12 +37,12 @@ StringReplace, stringer, stringnew, "ControlGetText", "¢°¹¢", All
 StringReplace, stringnew, stringer, "ControlMove", "¢¹¢", All
 StringReplace, stringer, stringnew, "ControlSend / ControlSendRaw", "¢²¢", All
 StringReplace, stringnew, stringer, "ControlSetText", "¢³¢", All
-StringReplace, stringer, stringnew, "CoordMode", "¢¢", All
-StringReplace, stringnew, stringer, "Cos()", "¢¢", All
-StringReplace, stringer, stringnew, "Critical", "¢¢", All
-StringReplace, stringnew, stringer, "DetectHiddenText", "¢¢", All
-StringReplace, stringer, stringnew, "DetectHiddenWindows", "¢¢", All
-StringReplace, stringnew, stringer, "DllCall()", "¢¢", All
+StringReplace, stringer, stringnew, "CoordMode", "¢®¹¢", All
+StringReplace, stringnew, stringer, "Cos()", "¢¹®¢", All
+StringReplace, stringer, stringnew, "Critical", "¢®²¢", All
+StringReplace, stringnew, stringer, "DetectHiddenText", "¢²®¢", All
+StringReplace, stringer, stringnew, "DetectHiddenWindows", "¢®³¢", All
+StringReplace, stringnew, stringer, "DllCall()", "¢³®¢", All
 StringReplace, stringer, stringnew, "Drive", "¢¢", All
 StringReplace, stringnew, stringer, "DriveGet", "¢¢", All
 StringReplace, stringer, stringnew, "DriveSpaceFree", "¢¢", All
