@@ -26,17 +26,17 @@ StringReplace, stringnew, stringer, "ComObjParameter()", "¢°¤¢", All
 StringReplace, stringer, stringnew, "ComObjQuery()", "¢¤°¢", All
 StringReplace, stringnew, stringer, "ComObjType()", "¢°£¢", All
 StringReplace, stringer, stringnew, "ComObjValue()", "¢£°¢", All
-StringReplace, stringnew, stringer, "Continue", "¢°¢", All
-StringReplace, stringer, stringnew, "Control", "¢°¢", All
-StringReplace, stringnew, stringer, "ControlClick", "¢°¢", All
-StringReplace, stringer, stringnew, "ControlFocus", "¢°¢", All
-StringReplace, stringnew, stringer, "ControlGet", "¢°¢", All
-StringReplace, stringer, stringnew, "ControlGetFocus", "¢°¢", All
-StringReplace, stringnew, stringer, "ControlGetPos", "¢°¢", All
-StringReplace, stringer, stringnew, "ControlGetText", "¢°¢", All
-StringReplace, stringnew, stringer, "ControlMove", "¢¢", All
-StringReplace, stringer, stringnew, "ControlSend / ControlSendRaw", "¢¢", All
-StringReplace, stringnew, stringer, "ControlSetText", "¢¢", All
+StringReplace, stringnew, stringer, "Continue", "¢°²¢", All
+StringReplace, stringer, stringnew, "Control", "¢²°¢", All
+StringReplace, stringnew, stringer, "ControlClick", "¢³°¢", All
+StringReplace, stringer, stringnew, "ControlFocus", "¢°³¢", All
+StringReplace, stringnew, stringer, "ControlGet", "¢·°¢", All
+StringReplace, stringer, stringnew, "ControlGetFocus", "¢°·¢", All
+StringReplace, stringnew, stringer, "ControlGetPos", "¢¹°¢", All
+StringReplace, stringer, stringnew, "ControlGetText", "¢°¹¢", All
+StringReplace, stringnew, stringer, "ControlMove", "¢¹¢", All
+StringReplace, stringer, stringnew, "ControlSend / ControlSendRaw", "¢²¢", All
+StringReplace, stringnew, stringer, "ControlSetText", "¢³¢", All
 StringReplace, stringer, stringnew, "CoordMode", "¢¢", All
 StringReplace, stringnew, stringer, "Cos()", "¢¢", All
 StringReplace, stringer, stringnew, "Critical", "¢¢", All
