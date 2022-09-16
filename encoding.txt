@@ -1,0 +1,290 @@
+StringReplace, stringer, stringnew, "Abs()", "¢€¢", All
+StringReplace, stringnew, stringer, "AutoTrim", "¢€€¢", All
+StringReplace, stringer, stringnew, "Asc()", "¢¡€¢", All
+StringReplace, stringnew, stringer, "ASin()", "¢€¡¢", All
+StringReplace, stringer, stringnew, "ACos()", "¢€£¢", All
+StringReplace, stringnew, stringer, "ATan()", "¢£€¢", All
+StringReplace, stringer, stringnew, "BlockInput", "¢€¤¢", All
+StringReplace, stringnew, stringer, "Break", "¢¤€¢", All
+StringReplace, stringer, stringnew, "Catch", "¢€¤€¢", All
+StringReplace, stringnew, stringer, "Ceil()", "¢¥¢", All
+StringReplace, stringer, stringnew, "Chr()", "¢¥¥¢", All
+StringReplace, stringnew, stringer, "Click", "¢¥¤¢", All
+StringReplace, stringer, stringnew, "ClipWait", "¢¤¥¢", All
+StringReplace, stringnew, stringer, "ComObjActive()", "¢¤¢", All
+StringReplace, stringer, stringnew, "ComObjArray()", "¢¤¤¢", All
+StringReplace, stringnew, stringer, "ComObjConnect()", "¢¤£¢", All
+StringReplace, stringer, stringnew, "ComObjCreate()", "¢£¤¢", All
+StringReplace, stringnew, stringer, "ComObject()", "¢¢", All
+StringReplace, stringer, stringnew, "ComObjEnwrap() / ComObjUnwrap()", "¢¢", All
+StringReplace, stringnew, stringer, "ComObjError()", "¢¢", All
+StringReplace, stringer, stringnew, "ComObjFlags()", "¢¢", All
+StringReplace, stringnew, stringer, "ComObjGet()", "¢¢", All
+StringReplace, stringer, stringnew, "ComObjMissing()", "¢¢", All
+StringReplace, stringnew, stringer, "ComObjParameter()", "¢¢", All
+StringReplace, stringer, stringnew, "ComObjQuery()", "¢¢", All
+StringReplace, stringnew, stringer, "ComObjType()", "¢¢", All
+StringReplace, stringer, stringnew, "ComObjValue()", "¢¢", All
+StringReplace, stringnew, stringer, "Continue", "¢¢", All
+StringReplace, stringer, stringnew, "Control", "¢¢", All
+StringReplace, stringnew, stringer, "ControlClick", "¢¢", All
+StringReplace, stringer, stringnew, "ControlFocus", "¢¢", All
+StringReplace, stringnew, stringer, "ControlGet", "¢¢", All
+StringReplace, stringer, stringnew, "ControlGetFocus", "¢¢", All
+StringReplace, stringnew, stringer, "ControlGetPos", "¢¢", All
+StringReplace, stringer, stringnew, "ControlGetText", "¢¢", All
+StringReplace, stringnew, stringer, "ControlMove", "¢¢", All
+StringReplace, stringer, stringnew, "ControlSend / ControlSendRaw", "¢¢", All
+StringReplace, stringnew, stringer, "ControlSetText", "¢¢", All
+StringReplace, stringer, stringnew, "CoordMode", "¢¢", All
+StringReplace, stringnew, stringer, "Cos()", "¢¢", All
+StringReplace, stringer, stringnew, "Critical", "¢¢", All
+StringReplace, stringnew, stringer, "DetectHiddenText", "¢¢", All
+StringReplace, stringer, stringnew, "DetectHiddenWindows", "¢¢", All
+StringReplace, stringnew, stringer, "DllCall()", "¢¢", All
+StringReplace, stringer, stringnew, "Drive", "¢¢", All
+StringReplace, stringnew, stringer, "DriveGet", "¢¢", All
+StringReplace, stringer, stringnew, "DriveSpaceFree", "¢¢", All
+StringReplace, stringnew, stringer, "Edit", "¢¢", All
+StringReplace, stringer, stringnew, "Else", "¢¢", All
+StringReplace, stringnew, stringer, "EnvAdd", "¢¢", All
+StringReplace, stringer, stringnew, "EnvDiv", "¢¢", All
+StringReplace, stringnew, stringer, "EnvGet", "¢¢", All
+StringReplace, stringer, stringnew, "EnvMult", "¢¢", All
+StringReplace, stringnew, stringer, "EnvSet", "¢¢", All
+StringReplace, stringer, stringnew, "EnvSub", "¢¢", All
+StringReplace, stringnew, stringer, "EnvUpdate", "¢¢", All
+StringReplace, stringer, stringnew, "Exception()", "¢¢", All
+StringReplace, stringnew, stringer, "Exit", "¢¢", All
+StringReplace, stringer, stringnew, "ExitApp", "¢¢", All
+StringReplace, stringnew, stringer, "Exp()", "¢¢", All
+StringReplace, stringer, stringnew, "FileAppend", "¢¢", All
+StringReplace, stringnew, stringer, "FileCopy", "¢¢", All
+StringReplace, stringer, stringnew, "FileCopyDir", "¢¢", All
+StringReplace, stringnew, stringer, "FileCreateDir", "¢¢", All
+StringReplace, stringer, stringnew, "FileCreateShortcut", "¢¢", All
+StringReplace, stringnew, stringer, "FileDelete", "¢¢", All
+StringReplace, stringer, stringnew, "FileEncoding", "¢¢", All
+StringReplace, stringnew, stringer, "FileExist()", "¢¢", All
+StringReplace, stringer, stringnew, "FileInstall", "¢¢", All
+StringReplace, stringnew, stringer, "FileGetAttrib", "¢¢", All
+StringReplace, stringer, stringnew, "FileGetShortcut", "¢¢", All
+StringReplace, stringnew, stringer, "FileGetSize", "¢¢", All
+StringReplace, stringer, stringnew, "FileGetTime", "¢¢", All
+StringReplace, stringnew, stringer, "FileGetVersion", "¢¢", All
+StringReplace, stringer, stringnew, "FileMove", "¢¢", All
+StringReplace, stringnew, stringer, "FileMoveDir", "¢¢", All
+StringReplace, stringer, stringnew, "FileOpen()", "¢¢", All
+StringReplace, stringnew, stringer, "FileRead", "¢¢", All
+StringReplace, stringer, stringnew, "FileReadLine", "¢¢", All
+StringReplace, stringnew, stringer, "FileRecycle", "¢¢", All
+StringReplace, stringer, stringnew, "FileRecycleEmpty", "¢¢", All
+StringReplace, stringnew, stringer, "FileRemoveDir", "¢¢", All
+StringReplace, stringer, stringnew, "FileSelectFile", "¢¢", All
+StringReplace, stringnew, stringer, "FileSelectFolder", "¢¢", All
+StringReplace, stringer, stringnew, "FileSetAttrib", "¢¢", All
+StringReplace, stringnew, stringer, "FileSetTime", "¢¢", All
+StringReplace, stringer, stringnew, "Finally", "¢¢", All
+StringReplace, stringnew, stringer, "Floor()", "¢¢", All
+StringReplace, stringer, stringnew, "For", "¢¢", All
+StringReplace, stringnew, stringer, "Format()", "¢¢", All
+StringReplace, stringer, stringnew, "FormatTime", "¢¢", All
+StringReplace, stringnew, stringer, "Func()", "¢¢", All
+StringReplace, stringer, stringnew, "GetKeyName()", "¢¢", All
+StringReplace, stringnew, stringer, "GetKeyVK()", "¢¢", All
+StringReplace, stringer, stringnew, "GetKeySC()", "¢¢", All
+StringReplace, stringnew, stringer, "GetKeyState", "¢¢", All
+StringReplace, stringer, stringnew, "GetKeyState()", "¢¢", All
+StringReplace, stringnew, stringer, "Gosub", "¢¢", All
+StringReplace, stringer, stringnew, "Goto", "¢¢", All
+StringReplace, stringnew, stringer, "GroupActivate", "¢¢", All
+StringReplace, stringer, stringnew, "GroupAdd", "¢¢", All
+StringReplace, stringnew, stringer, "GroupClose", "¢¢", All
+StringReplace, stringer, stringnew, "GroupDeactivate", "¢¢", All
+StringReplace, stringnew, stringer, "Gui", "¢¢", All
+StringReplace, stringer, stringnew, "GuiControl", "¢¢", All
+StringReplace, stringnew, stringer, "GuiControlGet", "¢¢", All
+StringReplace, stringer, stringnew, "Hotkey", "¢¢", All
+StringReplace, stringnew, stringer, "Hotstring()", "¢¢", All
+StringReplace, stringer, stringnew, "If (expression)", "¢¢", All
+StringReplace, stringnew, stringer, "If (legacy)", "¢¢", All
+StringReplace, stringer, stringnew, "If var [not] between", "¢¢", All
+StringReplace, stringnew, stringer, "If var [not] in/contains MatchList", "¢¢", All
+StringReplace, stringer, stringnew, "If var is [not] type", "¢¢", All
+StringReplace, stringnew, stringer, "IfEqual / IfNotEqual", "¢¢", All
+StringReplace, stringer, stringnew, "IfExist / IfNotExist", "¢¢", All
+StringReplace, stringnew, stringer, "IfGreater / IfGreaterOrEqual", "¢¢", All
+StringReplace, stringer, stringnew, "IfInString / IfNotInString", "¢¢", All
+StringReplace, stringnew, stringer, "IfLess / IfLessOrEqual", "¢¢", All
+StringReplace, stringer, stringnew, "IfMsgBox", "¢¢", All
+StringReplace, stringnew, stringer, "IfWinActive / IfWinNotActive", "¢¢", All
+StringReplace, stringer, stringnew, "IfWinExist / IfWinNotExist", "¢¢", All
+StringReplace, stringnew, stringer, ""IL_Create()
+IL_Add()
+IL_Destroy()"", "¢¢", All
+StringReplace, stringer, stringnew, "ImageSearch", "¢¢", All
+StringReplace, stringnew, stringer, "IniDelete", "¢¢", All
+StringReplace, stringer, stringnew, "IniRead", "¢¢", All
+StringReplace, stringnew, stringer, "IniWrite", "¢¢", All
+StringReplace, stringer, stringnew, "Input", "¢¢", All
+StringReplace, stringnew, stringer, "InputBox", "¢¢", All
+StringReplace, stringer, stringnew, "InputHook()", "¢¢", All
+StringReplace, stringnew, stringer, "InStr()", "¢¢", All
+StringReplace, stringer, stringnew, "IsByRef()", "¢¢", All
+StringReplace, stringnew, stringer, "IsFunc()", "¢¢", All
+StringReplace, stringer, stringnew, "IsLabel()", "¢¢", All
+StringReplace, stringnew, stringer, "IsObject()", "¢¢", All
+StringReplace, stringer, stringnew, "KeyHistory", "¢¢", All
+StringReplace, stringnew, stringer, "KeyWait", "¢¢", All
+StringReplace, stringer, stringnew, "ListHotkeys", "¢¢", All
+StringReplace, stringnew, stringer, "ListLines", "¢¢", All
+StringReplace, stringer, stringnew, "ListVars", "¢¢", All
+StringReplace, stringnew, stringer, "LoadPicture()", "¢¢", All
+StringReplace, stringer, stringnew, "Log()", "¢¢", All
+StringReplace, stringnew, stringer, "Ln()", "¢¢", All
+StringReplace, stringer, stringnew, "Loop (normal)", "¢¢", All
+StringReplace, stringnew, stringer, "Loop (files & folders)", "¢¢", All
+StringReplace, stringer, stringnew, "Loop (parse a string)", "¢¢", All
+StringReplace, stringnew, stringer, "Loop (read file contents)", "¢¢", All
+StringReplace, stringer, stringnew, "Loop (registry)", "¢¢", All
+StringReplace, stringnew, stringer, ""LV_Add()
+LV_Delete()
+LV_DeleteCol()
+LV_GetCount()
+LV_GetNext()
+LV_GetText()
+LV_Insert()
+LV_InsertCol()
+LV_Modify()
+LV_ModifyCol()
+LV_SetImageList()"", "¢¢", All
+StringReplace, stringer, stringnew, "Max()", "¢¢", All
+StringReplace, stringnew, stringer, "Menu", "¢¢", All
+StringReplace, stringer, stringnew, "MenuGetHandle()", "¢¢", All
+StringReplace, stringnew, stringer, "MenuGetName()", "¢¢", All
+StringReplace, stringer, stringnew, "Min()", "¢¢", All
+StringReplace, stringnew, stringer, "Mod()", "¢¢", All
+StringReplace, stringer, stringnew, "MouseClick", "¢¢", All
+StringReplace, stringnew, stringer, "MouseClickDrag", "¢¢", All
+StringReplace, stringer, stringnew, "MouseGetPos", "¢¢", All
+StringReplace, stringnew, stringer, "MouseMove", "¢¢", All
+StringReplace, stringer, stringnew, "MsgBox", "¢¢", All
+StringReplace, stringnew, stringer, "NumGet()", "¢¢", All
+StringReplace, stringer, stringnew, "NumPut()", "¢¢", All
+StringReplace, stringnew, stringer, "ObjAddRef() / ObjRelease()", "¢¢", All
+StringReplace, stringer, stringnew, "ObjBindMethod()", "¢¢", All
+StringReplace, stringnew, stringer, ""ObjClone()
+ObjCount()
+ObjDelete()
+ObjGetAddress()
+ObjGetCapacity()
+ObjHasKey()
+ObjInsert()
+ObjInsertAt()
+ObjLength()
+ObjMaxIndex()
+ObjMinIndex()
+ObjNewEnum()
+ObjPop()
+ObjPush()
+ObjRemove()
+ObjRemoveAt()
+ObjSetCapacity()"", "¢¢", All
+StringReplace, stringer, stringnew, "ObjGetBase()", "¢¢", All
+StringReplace, stringnew, stringer, "ObjRawGet()", "¢¢", All
+StringReplace, stringer, stringnew, "ObjRawSet()", "¢¢", All
+StringReplace, stringnew, stringer, "ObjSetBase()", "¢¢", All
+StringReplace, stringer, stringnew, "OnClipboardChange()", "¢¢", All
+StringReplace, stringnew, stringer, "OnError()", "¢¢", All
+StringReplace, stringer, stringnew, "OnExit", "¢¢", All
+StringReplace, stringnew, stringer, "OnExit()", "¢¢", All
+StringReplace, stringer, stringnew, "OnMessage()", "¢¢", All
+StringReplace, stringnew, stringer, "Ord()", "¢¢", All
+StringReplace, stringer, stringnew, "OutputDebug", "¢¢", All
+StringReplace, stringnew, stringer, "Pause", "¢¢", All
+StringReplace, stringer, stringnew, "PixelGetColor", "¢¢", All
+StringReplace, stringnew, stringer, "PixelSearch", "¢¢", All
+StringReplace, stringer, stringnew, "PostMessage", "¢¢", All
+StringReplace, stringnew, stringer, "Process", "¢¢", All
+StringReplace, stringer, stringnew, "Progress", "¢¢", All
+StringReplace, stringnew, stringer, "Random", "¢¢", All
+StringReplace, stringer, stringnew, "RegExMatch()", "¢¢", All
+StringReplace, stringnew, stringer, "RegExReplace()", "¢¢", All
+StringReplace, stringer, stringnew, "RegDelete", "¢¢", All
+StringReplace, stringnew, stringer, "RegRead", "¢¢", All
+StringReplace, stringer, stringnew, "RegWrite", "¢¢", All
+StringReplace, stringnew, stringer, "RegisterCallback()", "¢¢", All
+StringReplace, stringer, stringnew, "Reload", "¢¢", All
+StringReplace, stringnew, stringer, "Return", "¢¢", All
+StringReplace, stringer, stringnew, "Round()", "¢¢", All
+StringReplace, stringnew, stringer, "Run", "¢¢", All
+StringReplace, stringer, stringnew, "RunAs", "¢¢", All
+StringReplace, stringnew, stringer, "RunWait", "¢¢", All
+StringReplace, stringer, stringnew, ""SB_SetIcon()
+SB_SetParts()
+SB_SetText()"", "¢¢", All
+StringReplace, stringnew, stringer, "Send / SendRaw / SendInput / SendPlay / SendEvent", "¢¢", All
+StringReplace, stringer, stringnew, "SendLevel", "¢¢", All
+StringReplace, stringnew, stringer, "SendMessage", "¢¢", All
+StringReplace, stringer, stringnew, "SendMode", "¢¢", All
+StringReplace, stringnew, stringer, "SetBatchLines", "¢¢", All
+StringReplace, stringer, stringnew, "SetCapsLockState", "¢¢", All
+StringReplace, stringnew, stringer, "SetControlDelay", "¢¢", All
+StringReplace, stringer, stringnew, "SetDefaultMouseSpeed", "¢¢", All
+StringReplace, stringnew, stringer, "SetEnv (Var = Value)", "¢¢", All
+StringReplace, stringer, stringnew, "SetFormat", "¢¢", All
+StringReplace, stringnew, stringer, "SetKeyDelay", "¢¢", All
+StringReplace, stringer, stringnew, "SetMouseDelay", "¢¢", All
+StringReplace, stringnew, stringer, "SetNumLockState", "¢¢", All
+StringReplace, stringer, stringnew, "SetScrollLockState", "¢¢", All
+StringReplace, stringnew, stringer, "SetRegView", "¢¢", All
+StringReplace, stringer, stringnew, "SetStoreCapsLockMode", "¢¢", All
+StringReplace, stringnew, stringer, "SetTimer", "¢¢", All
+StringReplace, stringer, stringnew, "SetTitleMatchMode", "¢¢", All
+StringReplace, stringnew, stringer, "SetWinDelay", "¢¢", All
+StringReplace, stringer, stringnew, "SetWorkingDir", "¢¢", All
+StringReplace, stringnew, stringer, "Shutdown", "¢¢", All
+StringReplace, stringer, stringnew, "Sin()", "¢¢", All
+StringReplace, stringnew, stringer, "Sleep", "¢¢", All
+StringReplace, stringer, stringnew, "Sort", "¢¢", All
+StringReplace, stringnew, stringer, "SoundBeep", "¢¢", All
+StringReplace, stringer, stringnew, "SoundGet", "¢¢", All
+StringReplace, stringnew, stringer, "SoundGetWaveVolume", "¢¢", All
+StringReplace, stringer, stringnew, "SoundPlay", "¢¢", All
+StringReplace, stringnew, stringer, "SoundSet", "¢¢", All
+StringReplace, stringer, stringnew, "SoundSetWaveVolume", "¢¢", All
+StringReplace, stringnew, stringer, "SplashImage", "¢¢", All
+StringReplace, stringer, stringnew, "SplashTextOn / SplashTextOff", "¢¢", All
+StringReplace, stringnew, stringer, "SplitPath", "¢¢", All
+StringReplace, stringer, stringnew, "Sqrt()", "¢¢", All
+StringReplace, stringnew, stringer, "StatusBarGetText", "¢¢", All
+StringReplace, stringer, stringnew, "StatusBarWait", "¢¢", All
+StringReplace, stringnew, stringer, "StrGet()", "¢¢", All
+StringReplace, stringer, stringnew, "StringCaseSense", "¢¢", All
+StringReplace, stringnew, stringer, "StringGetPos", "¢¢", All
+StringReplace, stringer, stringnew, "StringLeft", "¢¢", All
+StringReplace, stringnew, stringer, "StringLen", "¢¢", All
+StringReplace, stringer, stringnew, "StringLower", "¢¢", All
+StringReplace, stringnew, stringer, "StringMid", "¢¢", All
+StringReplace, stringer, stringnew, "StringReplace", "¢¢", All
+StringReplace, stringnew, stringer, "StringRight", "¢¢", All
+StringReplace, stringer, stringnew, "StringSplit", "¢¢", All
+StringReplace, stringnew, stringer, "StringTrimLeft", "¢¢", All
+StringReplace, stringer, stringnew, "StringTrimRight", "¢¢", All
+StringReplace, stringnew, stringer, "StringUpper", "¢¢", All
+StringReplace, stringer, stringnew, "StrLen()", "¢¢", All
+StringReplace, stringnew, stringer, "StrPut()", "¢¢", All
+StringReplace, stringer, stringnew, "StrReplace()", "¢¢", All
+StringReplace, stringnew, stringer, "StrSplit()", "¢¢", All
+StringReplace, stringer, stringnew, "SubStr()", "¢¢", All
+StringReplace, stringnew, stringer, "Suspend", "¢¢", All
+StringReplace, stringer, stringnew, "Switch", "¢¢", All
+StringReplace, stringnew, stringer, "SysGet", "¢¢", All
+StringReplace, stringer, stringnew, "Tan()", "¢¢", All
+StringReplace, stringnew, stringer, "Thread", "¢¢", All
+StringReplace, stringer, stringnew, "Throw", "¢¢", All
+StringReplace, stringnew, stringer, "ToolTip", "¢¢", All
+StringReplace, stringer, stringnew, "Transform", "¢¢", All
+StringReplace, stringnew, stringer, "TrayTip", "¢¢", All
+StringReplace, stringer, stringnew, "Trim() / LTrim() / RTrim()", "¢¢", All
+StringReplace, stringnew, stringer, "Try", "¢¢", All
