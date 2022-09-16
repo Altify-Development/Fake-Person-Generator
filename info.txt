@@ -1,7 +1,7 @@
 // This is the file that will always be downloaded, it is to inform the user about my current discord server, account, etc \\
 || DONT DELETE THIS FILE OR PROGRAM WILL NOT OPERATE ||
 ╔════════════════════════════════════════════════════════════════╗
-║     Created By Altify#0949, I WAS HACKED!!! Not Altify#0001!   ║
+║     Created By Altify#0001                                     ║
 ║         Discord server: https://joindiscord.netlify.app/       ║
 ║ Developed in AutoHotKey ( .ahk ) May be read as PE for ahk2exe ║
 ║ Ahk2Exe Converter commonly is detected because it compiles src ║
