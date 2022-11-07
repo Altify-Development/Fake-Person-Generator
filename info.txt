@@ -3,7 +3,7 @@
 \\ DISCORD SERVER WAS TERMINATED JOIN NEW SERVER AT THE JOIN LINK BELOW //
 ╔════════════════════════════════════════════════════════════════╗
 ║                    Created By Altify#0016                      ║
-║         Discord server: https://joindiscord.netlify.app/       ║
+║      Discord server: https://discord.altifydeveloping.com      ║
 ║ Developed in AutoHotKey ( .ahk ) May be read as PE for ahk2exe ║
 ║ Ahk2Exe Converter commonly is detected because it compiles src ║
 ╠════════════════════════════════════════════════════════════════╣
@@ -20,7 +20,7 @@
 Fake-Person-Generator By Altify Developing
 
 description:
-A WIP application that creates an entire fake person, with everything that they would really have, from accounts, to license plates, to hospital records. Extends to Cryptocurrency Services, Banking Balances, even dental information, anything you do with this can i cannot be held responsible for also discord.gg/alts is my discord server 800 members free stuff
+A WIP application that creates an entire fake person, with everything that they would really have, from accounts, to license plates, to hospital records. Extends to Cryptocurrency Services, Banking Balances, even dental information, anything you do with this can i cannot be held responsible for also https://discord.altifydeveloping.com/ is my discord server 100~ members free stuff used to have 1.3k members before termination, gg/alts my old vanity was stolen, don't try to get into my server using it.
 
 Information:
 - Creates roughly 30,000 people/minute at maximum speed
